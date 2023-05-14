@@ -1,0 +1,160 @@
+                            ---------------
+                           |Interview ISTAT|
+                            ---------------
+
+1.Tell me about yourself
+ 
+  My name is Siengpengny, I am 20 years old and I am the frist child in my family.
+
+  I live in Phnom Penh and I am from Kampong Cham province. However, I am stadying computer science 
+
+  in years 4 at Royal University of Phnom Penh.In the futher, I want to be a web deverloper.
+
+  =>Beacuce -Web developers are in high demand
+
+				-Web developers are constantly evolving
+
+				-Web developers can work in many types of companies
+
+				-I love it.
+
+2.Definitions of OOP type: 
+
+
+   1. Encapsulation
+  
+       Encapsulation refers to the bundling of data, along with the methods that
+
+       operate on that data, into a single unit.
+
+   2. Inheritance:
+
+		Inheritance is Classes can reuse code from other classes that share a set of attributes and methods.
+
+   3. Polymorphism:
+
+      it describes the concept that you can access objects  of different types through the same interface.
+
+
+      								=====Abstraction=====
+
+		Abstraction is the process of hiding the internal details of an application
+
+		from the outer world. Abstraction is used to describe things in simple terms. 
+
+		It's used to create a boundary between the application and the client programs.
+
+2.What is a constructor, how can we create an object in java…
+
+  =>A constructor in Java is a special method that is used to initialize objects. 
+
+  The constructor is called when an object of a class is created.
+
+    //instance class
+    Person person1 = new Person();
+    //instance but with constructor;
+    Person person2 = new Person(“Sithov”, 20, 081323127);
+
+3.What is single tags?
+
+=>Single tag does not have a closing tag. 
+ 
+ *For example:<br>,<hr>
+
+  The most used single tags:<br> - move to a new line
+               
+                            <hr> - the separation line
+
+4.Paired HTML tags?
+
+=>A pair of handle has an opening and closing tag.
+
+ *For example:<h1>,<p>
+
+  if you write <h1><h1> :error
+ 
+  but when you write <br><br> :not error (single tag)
+
+5.Why is it important to learn how to use tags?
+  
+=>Search engines is know the web write about what?
+
+6.What is attributes of HTML tags?
+
+=>HTML attributes provide additional information about HTML elements. 
+
+  -All HTML elements can have attributes
+
+  -Attributes provide additional information about elements
+  
+  -Attributes are always specified in the start tag
+
+  -Attributes usually come in name/value pairs like: name="value"
+
+  for Example :<img src"img.png">
+
+     =>The 'src' attribute specifies the path to the image to be displayed.
+
+7.what is HTML elements ?
+
+ =>The HTML elements is a tag have content.
+
+ *For example:-open p and close p we call tag.
+             
+              -if we have content between open p and close p we call HTML element.
+
+8.why you wnat to learn here?
+ -ISTAD is a noteworthy science and technology institute in Cambodia. 
+
+  ISTAD has routed Cambodian students to advanced science and technology, research, 
+
+  and develop digital skills and our graduates have been guaranteed excellent job opportunities 
+
+  with the Top IT company. ISTAD will continue to provide high-quality g with the latetraininst methodology,
+ 
+  and roadmap as well as the best choice for those who want to be an IT expert in Cambodia.
+
+ -vision
+    *Advanced IT Institute in Cambodia
+ - MISSION
+    *Provide the latest methodology with high quality training and mentoring
+    *Build up the capacity and career of IT experts Cambodia
+    *Consult and connect ISTAD trainees to top IT careers
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    168dd-b8e43
+    f2541-eb999
+    afd08-47c40
+    1b43e-b80c0
+    6859b-8702e
+    81a11-058aa
+    2c6e2-f1d4d
+    fbce8-fce1c
+    2535d-2f4fc
+    c0857-e7ea3
+    b91a6-b252d
+    f4e25-93830
+    1085a-41093
+    1d66d-f2f45
+    c5fbd-0288e
+    ff313-0261f
+  
